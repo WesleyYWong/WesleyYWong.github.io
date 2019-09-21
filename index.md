@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to Github page of Wesley Wong
 
-You can use the [editor on GitHub](https://github.com/WesleyYWong/WesleyYWong.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+You can find random public projects on here from my school or personal projects
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About me
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I am a person who likes to code and make fun and dumb projects that do any number of things, some pointless and some not.
 
 ```markdown
 Syntax highlighted code block
